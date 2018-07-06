@@ -1,6 +1,6 @@
 A vanilla implementation of LSTM in Keras to generate sequence models.
 
-It has been trained on 1 epoch on the Ramayana.
+It has been trained on 18 epochs on the Three Men In A Boat data.
 
 For better results, use an epoch of atleast 20.
 
